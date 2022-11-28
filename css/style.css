@@ -4,27 +4,53 @@ img {
     display: block;
 }
 
+p {
+    font-variant: small-caps;
+    font-family: Arial;
+    font-size: 120%;
+}
+
 figcaption {
-    color:white;
+    color: white;
     text-align: center;
+    font-variant: small-caps;
+    font-family: Arial;
 }
 
 span {
-    color:white;
-    background-color:blue;
+    color: white;
+    background-color: #2565AE;
 }
 
 h1 {
-    color:white;
-    background-color:blue;
+    color: white;
+    font-variant: small-caps;
+    font-family: Arial;
+    text-align: center;
+    background-color: #2565AE;
 }
 
 h3 {
-    color:white;
-    background-color:blue;
+    color: white;
+    font-variant: small-caps;
+    font-family: Arial;
+    text-align: center;
+    background-color: #2565AE;
 }
 
 a {
-    color:white;
-    background-color:green;
+    color: white;
+}
+
+nav {
+    background-color: #198450;
+    font-size: 160%;
+    font-variant: small-caps;
+    font-family: Arial;
+    text-align: center;
+}
+
+ol {
+    font-variant: small-caps;
+    text-align: center;
 }
